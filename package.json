@@ -1,0 +1,22 @@
+{
+  "name": "resume-parser",
+  "version": "1.0.0",
+  "description": "Resume parser with two APIs: rule-based (no LLM) vs Gemini LLM, to compare side by side",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "dev": "node --watch --env-file-if-exists=.env src/server.js"
+  },
+  "engines": {
+    "node": ">=22.9.0"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "express": "^5.2.1",
+    "mammoth": "^1.13.0",
+    "multer": "^2.4.0",
+    "pdf-parse": "^2.4.5",
+    "zod": "^4.6.5"
+  }
+}

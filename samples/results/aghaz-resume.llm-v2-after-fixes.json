@@ -1,0 +1,168 @@
+{
+    "method": "llm",
+    "filename": "Aghaz_5.1yoe_serving_np.pdf",
+    "time_ms": 201544,
+    "meta": {
+        "text_chars": 3177,
+        "provider": "gemini",
+        "model": "gemini-3.1-flash-lite",
+        "attempts": 1,
+        "urls_found": 3,
+        "tokens": {
+            "input_tokens": 1227,
+            "output_tokens": 1428
+        },
+        "corrections": []
+    },
+    "data": {
+        "contact": {
+            "name": "AGHAZ JUNAID",
+            "email": "aghazjunaid96@gmail.com",
+            "phone": "+91-9525887776",
+            "location": null,
+            "linkedin": "https://www.linkedin.com/in/aghaz-junaid-7801153a7/",
+            "github": "https://github.com/Aghazjunaid",
+            "website": null,
+            "other_links": [
+                "linkedin.com/in/aghaz-junaid"
+            ]
+        },
+        "summary": null,
+        "work_experience": [
+            {
+                "company": "Coursefinder.ai",
+                "role": "Senior Software Engineer",
+                "location": "Hyderabad, India",
+                "start_date": "2025-01",
+                "end_date": "Present",
+                "responsibilities": [
+                    "Developed wallet system and integrated Razorpay, handling 20+ crore/month transactions with automated invoicing.",
+                    "Built APIs and UI dashboards with tables and charts to track application status and business KPIs.",
+                    "Designed and implemented a high-performance course search API over lakhs of records; integrated Redis caching to reduce latency from 2s to under 200ms, handling lakhs of requests per day.",
+                    "Migrated authentication from Auth0 to Kinde and integrated multiple eMudhra digital signature methods for invoice workflows.",
+                    "Maintained admin services in Python with MS SQL + PostgreSQL dual sync and EOD discrepancy reports.",
+                    "Migrated multiple legacy features from .NET to Node.js and Next, improving maintainability and consistency across the platform."
+                ],
+                "technologies": [
+                    "Node.js",
+                    "Next.js",
+                    "Python",
+                    "MS SQL Server",
+                    "PostgreSQL",
+                    "Redis",
+                    "Razorpay",
+                    "Auth0",
+                    "Kinde",
+                    ".NET"
+                ]
+            },
+            {
+                "company": "Ather Energy",
+                "role": "Software Engineer - Full Stack (Charging Infrastructure)",
+                "location": "Bengaluru, India",
+                "start_date": "2022-07",
+                "end_date": "2025-01",
+                "responsibilities": [
+                    "Optimized Charger Locator API from 500ms to 80ms, handling 10M+ requests/day using Redis Geo and Hash.",
+                    "Built real-time charger health monitoring using Redis keyspace notifications and Kafka, processing 300M+ events/day.",
+                    "Implemented feedback APIs and tagging mechanisms for the Ather mobile app to capture structured user feedback.",
+                    "Developed start/stop charging APIs for fast chargers, improving operational control and fault recovery.",
+                    "Designed one-click OTA software update APIs for thousands of chargers with scalable Kafka topic architecture.",
+                    "Built Host Dashboard (FE + BE) for charger reimbursement using energy meter data, serving 10,000+ hosts.",
+                    "Integrated ClickHouse for high-volume charging session and energy consumption analytics.",
+                    "Implemented automated invoice generation in Node.js with Bull jobs for monthly payouts.",
+                    "Developed Host Dashboard UI using Next.js, creating 50+ reusable components with NextAuth and Ant Design.",
+                    "Designed internal tools for charger, pod, and location mapping to improve operational visibility.",
+                    "Integrated Jira into internal CMS to improve issue tracking, escalation, and operational workflows."
+                ],
+                "technologies": [
+                    "Redis",
+                    "Kafka",
+                    "ClickHouse",
+                    "Node.js",
+                    "Bull",
+                    "Next.js",
+                    "NextAuth",
+                    "Ant Design",
+                    "Jira"
+                ]
+            },
+            {
+                "company": "Alphonic Network Solutions",
+                "role": "Full Stack Developer",
+                "location": "Jaipur, India",
+                "start_date": "2021-05",
+                "end_date": "2022-07",
+                "responsibilities": [
+                    "Designed APIs for mobile and web applications with scalable backend architecture.",
+                    "Built admin and user dashboards using React.js and vanilla HTML/CSS/JS.",
+                    "Optimized complex SQL queries and reporting pipelines.",
+                    "Integrated AWS S3 and third-party services including Stripe, Razorpay, Twilio, SendGrid, and daily.co."
+                ],
+                "technologies": [
+                    "React",
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "SQL",
+                    "AWS S3",
+                    "Stripe",
+                    "Razorpay",
+                    "Twilio",
+                    "SendGrid",
+                    "daily.co"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Muzaffarpur Institute of Technology",
+                "degree": "B.Tech",
+                "field_of_study": "Electronics and Communication Engineering",
+                "start_date": "2016",
+                "end_date": "2020",
+                "grade": "null"
+            }
+        ],
+        "skills": [
+            "JavaScript",
+            "TypeScript",
+            "Python",
+            "Node.js",
+            "Express",
+            "Sails.js",
+            "React",
+            "Next.js",
+            "HTML",
+            "CSS",
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "MS SQL Server",
+            "ClickHouse",
+            "Kafka",
+            "Redis",
+            "AWS S3",
+            "Bull",
+            "Jira",
+            "Git",
+            "Cursor",
+            "Claude Code",
+            "SQL",
+            "Stripe",
+            "Razorpay",
+            "Twilio",
+            "SendGrid",
+            "daily.co",
+            "Auth0",
+            "Kinde",
+            ".NET",
+            "NextAuth",
+            "Ant Design"
+        ],
+        "certifications": [],
+        "projects": [],
+        "languages": [],
+        "interests": []
+    }
+}
